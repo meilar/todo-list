@@ -1,34 +1,25 @@
-<h1 align="center">{CHANGE ME}</h1>
+<h1 align="center">Todo List</h1>
 
 Matthew Eilar | [LinkedIn](https://www.linkedin.com/in/eilar-503/) | [email](mailto:<meilar@gmail.com>) | [website](https://www.mattheweilar.com)
+Riley Shimp | [LinkedIn](https://www.linkedin.com/in/rileyshimp/) 
 
 ## About this project
-{SCREENSHOT}
-
-## Get Started
-
-### The Hard Way
-
-
-### The Easy Way
+Learning project built from Epicodus tutorial, learning test driven development workflow in C#/.NET.
 
 
 ## Technologies Used
 
 This site incorporates the following frameworks and languages:
 
-
-## Known Issues
-
-## Acknowledgements
-
-Thank you to my partner, Alex, for support in all ways. Thank you to my parents for encouraging technology exploration, even when resources were scarce. Thank you to the Kohlenberg Foundation for {CHANGE ME}.
+- C#
+- .NET
+- VSCode
 
 ## License 
 
 MIT License
 
-© 2022 Matthew Eilar
+© 2022 Matthew Eilar, Riley Shimp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
