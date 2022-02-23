@@ -9,22 +9,8 @@ namespace ToDoList.Tests
     [TestMethod]
     public void ItemConstructor_CreatesInstanceOfItem_Item()
     {
-      Item newItem = new Item("test");
+      Item newItem = new Item();
       Assert.AreEqual(typeof(Item), newItem.GetType());
-    }
-
-    [TestMethod]
-    public void GetDecription_ReturnsDescription_String()
-    {
-      //Arrange
-      string description = "Walk the dog.";
-      Item newItem = new Item(description);
-
-      //Act
-      string result = newItem.Description;
-
-      //Assert
-      Assert.AreEqual(description,result);
     }
   }
 }
