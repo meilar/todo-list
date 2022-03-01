@@ -1,6 +1,6 @@
 <h1 align="center">Todo List</h1>
 
-Matthew Eilar | [LinkedIn](https://www.linkedin.com/in/eilar-503/) | [email](mailto:<meilar@gmail.com>) | [website](https://www.mattheweilar.com)
+Matthew Eilar | [LinkedIn](https://www.linkedin.com/in/eilar-503/) | [email](mailto:<meilar@gmail.com>) | [website](https://www.mattheweilar.com) ||||
 Riley Shimp | [LinkedIn](https://www.linkedin.com/in/rileyshimp/) 
 
 ## About this project
