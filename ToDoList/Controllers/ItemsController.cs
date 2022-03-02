@@ -19,6 +19,14 @@ namespace ToDoList.Controllers
       Item myItem = new Item(description);
       return RedirectToAction("Index");
     }
+
+    [HttpPost("/items/delete")]
+    public ActionResult DeleteAll()
+    {
+      Item.ClearAll();
+      return View();
+    }
+    
     [Route("/items/new")]
     public ActionResult CreateForm()
     {
